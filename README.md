@@ -1,11 +1,6 @@
 <h2 align="left">Olá! Eu sou a Malú Braga 👋🏽👩🏾‍💻</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaluBragaX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaluBragaX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p>Estudante de Engenharia de Software, apaixonada por tecnologia e até onde ela pode me levar. Estou em busca de uma primeira oportunidade na área de desenvolvimento para mostrar meu potencial. Gosto de me desenvolver proativamente e com criatividade em implementações diversas.</p>
+<h2>O que estou estudando:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
